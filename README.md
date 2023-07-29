@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Sufian
+### Hi, I’m Abu Sufian
 - 👀 I’m interested in artificial intelligence. 
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Open-source project.
