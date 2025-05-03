@@ -15,8 +15,8 @@ I'm a passionate Full Stack Developer from Bangladesh.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sufian360&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufian360)
 
 ## 🎵 Now Playing on Spotify
 ![Spotify](https://novatorem.vercel.app/api/spotify)
