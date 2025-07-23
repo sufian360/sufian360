@@ -18,8 +18,8 @@ I'm a passionate Full Stack Developer and NLP Enthusiast from Bangladesh.
 ![JAVA](https://img.shields.io/badge/-Java-61DAFB?style=flat&logo=java&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sufian360&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sufian360)
+![sufian360's Stats](https://github-readme-stats.vercel.app/api?username=sufian360&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![sufian360's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufian360&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 🎵 Now Playing on Spotify
 ![Spotify](https://novatorem.vercel.app/api/spotify)
